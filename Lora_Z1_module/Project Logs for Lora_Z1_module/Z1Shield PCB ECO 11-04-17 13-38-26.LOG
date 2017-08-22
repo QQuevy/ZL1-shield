@@ -1,0 +1,16 @@
+Added Component: Designator=P?(HDR1X2)
+Added Component: Designator=P?(HDR1X2)
+Added Component: Designator=RX0(HDR1X2)
+Added Component: Designator=RX1(HDR1X2)
+Added Component: Designator=TX0(HDR1X2)
+Added Component: Designator=TX1(HDR1X2)
+Added Pin To Net: NetName=NetMODULE?_7 Pin=RX0-1
+Added Pin To Net: NetName=NetMODULE?_7 Pin=RX1-1
+Added Pin To Net: NetName=NetMODULE?_6 Pin=TX0-1
+Added Pin To Net: NetName=NetMODULE?_6 Pin=TX1-1
+Added Member To Class: ClassName=Main Member=Component P? Header 2
+Added Member To Class: ClassName=Main Member=Component P? Header 2
+Added Member To Class: ClassName=Main Member=Component RX0 Header 2
+Added Member To Class: ClassName=Main Member=Component RX1 Header 2
+Added Member To Class: ClassName=Main Member=Component TX0 Header 2
+Added Member To Class: ClassName=Main Member=Component TX1 Header 2

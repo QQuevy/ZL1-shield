@@ -1,0 +1,17 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Lora_Z1_module.PrjPcb]
+   Generated File[Z1Shield.GTL]
+   Generated File[Z1Shield.GPB]
+   Generated File[Z1Shield.GPT]
+   Generated File[Z1Shield.GTO]
+   Generated File[Z1Shield.GM3]
+   Generated File[Z1Shield.RUL]
+   Generated File[Z1Shield.EXTREP]
+   Generated File[Z1Shield.REP]
+
+
+Files Generated   : 8
+Documents Printed : 0
+
+Finished Output Generation At 13:50:47 On 14-04-17

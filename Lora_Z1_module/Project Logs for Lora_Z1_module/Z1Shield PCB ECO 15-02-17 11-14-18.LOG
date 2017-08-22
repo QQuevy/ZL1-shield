@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=Main Member=header
+Added Component: Designator=P?(HDR1X7)
+Added Pin To Net: NetName=NetMODULE?_32 Pin=MODULE?-32
+Added Pin To Net: NetName=NetMODULE?_32 Pin=P?-3
+Added Net: Name=NetMODULE?_32
+Added Pin To Net: NetName=NetMODULE?_35 Pin=MODULE?-35
+Added Pin To Net: NetName=NetMODULE?_35 Pin=P?-7
+Added Net: Name=NetMODULE?_35
+Added Pin To Net: NetName=NetMODULE?_38 Pin=MODULE?-38
+Added Pin To Net: NetName=NetMODULE?_38 Pin=P?-6
+Added Net: Name=NetMODULE?_38
+Added Member To Class: ClassName=Main Member=Component P? Header 7

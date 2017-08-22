@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Lora_Z1_module.PrjPcb]
+   Generated File[Z1Shield.TXT]
+   Generated File[Z1Shield-BoardEdgeRout.TXT]
+   Generated File[Z1Shield.LDP]
+   Generated File[Z1Shield.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:40:23 On 14-04-17

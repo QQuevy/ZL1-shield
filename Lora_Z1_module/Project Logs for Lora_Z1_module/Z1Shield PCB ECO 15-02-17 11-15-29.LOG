@@ -1,0 +1,5 @@
+Added Component: Designator=P?(HDR1X7)
+Added Pin To Net: NetName=NetMODULE?_32 Pin=P?-3
+Added Pin To Net: NetName=NetMODULE?_38 Pin=P?-6
+Added Pin To Net: NetName=NetMODULE?_35 Pin=P?-7
+Added Member To Class: ClassName=Main Member=Component P? Header 7

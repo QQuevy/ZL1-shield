@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetMODULE?_7 Pin=RX-1
+Removed Pin From Net: NetName=NetMODULE?_6 Pin=TX-1
+Removed Member From Class: ClassName=Main Member=RX
+Removed Member From Class: ClassName=Main Member=TX

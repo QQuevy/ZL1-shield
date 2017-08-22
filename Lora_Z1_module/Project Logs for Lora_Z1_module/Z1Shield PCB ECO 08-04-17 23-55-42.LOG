@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=Main Member=Antenna
+Change Component Designator: OldDesignator=MODULE NewDesignator=MODULE?
+Added Component: Designator=E1(ANT-CHIP)
+Added Pin To Net: NetName=NetE1_1 Pin=E1-1
+Added Pin To Net: NetName=NetE1_1 Pin=MODULE?-23
+Added Net: Name=NetE1_1
+Added Member To Class: ClassName=Main Member=Component E1 Antenna

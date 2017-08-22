@@ -1,0 +1,25 @@
+Added Component: Designator=GPIO(HDR1X24)
+Added Component: Designator=MODULE?(MICROCHIP_RN2483-I/RM095)
+Added Component: Designator=UART(HDR1X2)
+Added Pin To Net: NetName=NetGPIO_5 Pin=GPIO-5
+Added Pin To Net: NetName=NetGPIO_5 Pin=MODULE?-32
+Added Net: Name=NetGPIO_5
+Added Pin To Net: NetName=NetGPIO_23 Pin=GPIO-23
+Added Pin To Net: NetName=NetGPIO_23 Pin=MODULE?-38
+Added Net: Name=NetGPIO_23
+Added Pin To Net: NetName=NetGPIO_24 Pin=GPIO-24
+Added Pin To Net: NetName=NetGPIO_24 Pin=MODULE?-35
+Added Net: Name=NetGPIO_24
+Added Pin To Net: NetName=NetMODULE?_4 Pin=MODULE?-4
+Added Pin To Net: NetName=NetMODULE?_4 Pin=MODULE?-8
+Added Net: Name=NetMODULE?_4
+Added Pin To Net: NetName=NetMODULE?_5 Pin=MODULE?-5
+Added Pin To Net: NetName=NetMODULE?_5 Pin=MODULE?-11
+Added Net: Name=NetMODULE?_5
+Added Pin To Net: NetName=NetMODULE?_6 Pin=MODULE?-6
+Added Pin To Net: NetName=NetMODULE?_6 Pin=UART-2
+Added Net: Name=NetMODULE?_6
+Added Pin To Net: NetName=NetMODULE?_7 Pin=MODULE?-7
+Added Pin To Net: NetName=NetMODULE?_7 Pin=UART-1
+Added Net: Name=NetMODULE?_7
+Added Class: Name=Main

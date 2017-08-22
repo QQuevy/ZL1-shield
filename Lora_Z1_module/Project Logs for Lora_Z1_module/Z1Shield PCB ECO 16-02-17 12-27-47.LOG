@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetMODULE?_7 Pin=UART-1
+Removed Pin From Net: NetName=NetMODULE?_6 Pin=UART-2
+Change Component Designator: OldDesignator=UART NewDesignator=UART1
+Added Component: Designator=RX(RAD-0.2)
+Added Component: Designator=TX(RAD-0.2)
+Added Pin To Net: NetName=NetMODULE?_7 Pin=RX-1
+Added Pin To Net: NetName=NetMODULE?_6 Pin=TX-1
+Added Pin To Net: NetName=NetRX_2 Pin=RX-2
+Added Pin To Net: NetName=NetRX_2 Pin=UART1-1
+Added Net: Name=NetRX_2
+Added Pin To Net: NetName=NetTX_2 Pin=TX-2
+Added Pin To Net: NetName=NetTX_2 Pin=UART1-2
+Added Net: Name=NetTX_2
+Added Member To Class: ClassName=Main Member=Component P? Header 7
+Added Member To Class: ClassName=Main Member=Component RX Jumper
+Added Member To Class: ClassName=Main Member=Component TX Jumper

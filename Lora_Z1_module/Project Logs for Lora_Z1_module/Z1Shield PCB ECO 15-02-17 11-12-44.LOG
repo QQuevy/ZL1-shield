@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=GPIO NewDesignator=header
+Change Net Name : Old Net Name=NetGPIO_5 New Net Name=Netheader_5
+Change Net Name : Old Net Name=NetGPIO_23 New Net Name=Netheader_23
+Change Net Name : Old Net Name=NetGPIO_24 New Net Name=Netheader_24

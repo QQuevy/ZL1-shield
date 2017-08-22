@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=Main Member=E1
+Added Component: Designator=X?(U.FL)
+Added Pin To Net: NetName=NetMODULE?_23 Pin=MODULE?-23
+Added Pin To Net: NetName=NetMODULE?_23 Pin=X?-1
+Added Net: Name=NetMODULE?_23
+Added Member To Class: ClassName=Main Member=Component X? U.FL RF Connector

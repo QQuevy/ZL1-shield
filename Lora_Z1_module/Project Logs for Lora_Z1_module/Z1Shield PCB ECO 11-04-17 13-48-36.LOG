@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=RX0 Pin=RX0-2
+Added Net: Name=RX0
+Added Pin To Net: NetName=RX1 Pin=RX1-2
+Added Net: Name=RX1
+Added Pin To Net: NetName=TX0 Pin=TX0-2
+Added Net: Name=TX0
+Added Pin To Net: NetName=TX1 Pin=TX1-2
+Added Net: Name=TX1

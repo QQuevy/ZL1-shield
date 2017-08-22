@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetMODULE?_7 Pin=UART1-1
+Removed Pin From Net: NetName=NetMODULE?_6 Pin=UART1-2
+Removed Member From Class: ClassName=Main Member=UART1
+Added Component: Designator=RX0(RAD-0.2)
+Added Component: Designator=RX1(RAD-0.2)
+Added Component: Designator=TX0(RAD-0.2)
+Added Component: Designator=TX1(RAD-0.2)
+Added Pin To Net: NetName=NetMODULE?_7 Pin=RX0-1
+Added Pin To Net: NetName=NetMODULE?_7 Pin=RX1-1
+Added Pin To Net: NetName=NetMODULE?_6 Pin=TX0-1
+Added Pin To Net: NetName=NetMODULE?_6 Pin=TX1-1
+Added Member To Class: ClassName=Main Member=Component RX0 Jumper
+Added Member To Class: ClassName=Main Member=Component RX1 Jumper
+Added Member To Class: ClassName=Main Member=Component TX0 Jumper
+Added Member To Class: ClassName=Main Member=Component TX1 Jumper
